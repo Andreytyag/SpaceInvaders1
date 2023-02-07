@@ -1,7 +1,7 @@
-class Display {
 
-}
 
-class Painter{
+class Main{
+    public static void main(String[] args){
 
+    }
 }
